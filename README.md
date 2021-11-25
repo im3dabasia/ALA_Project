@@ -27,7 +27,7 @@ Making our lives easier, the concepts of linear algebra are a great gem to us. O
 With the increase in population growth and rapid urbanization in the Indian economy, concerns regarding traffic congestion have risen. These have been of great interest to the government because of their negative impacts causing disturbance to the human society and environment. It is also a concern for people who need to commute from home to work every day because traffic congestion is time-consuming. Therefore, we intend to build a mathematical model that can help analyse the existing traffic situation and achieve optimum traffic management in the city.
 
 ## Results:
-Markov chains 
+## Markov chains 
 The idea here is very simple. As the definition of Markov chains says that the output of the next state can be predicted from the current state and not the previous States. This the absolute principle we have applied in our calculations.
 
 We made a 4*4 matrix let's call this Matrix A for simplicity. In which we have data that consists of monthly cars at each crossroad. The months are JAN, FEB, MAR, APR. 
@@ -41,17 +41,17 @@ AX = X1
 Then we multiplied the result X1 with the same old constant matrix A. To obtain the number of cars passing through the 4 crossroads.
 
 Our results are very convincing and are almost/ close to similar. We used Markov chains property to predict distant future values.
-References:
-1.Paper on Markov Chains helped in:
+## References:
+##### 1.Paper on Markov Chains helped in:
 Exploration of interesting probability theories for the achievement of twin goals of maximization of traffic flow efficiency and minimization of congestion
 Link: https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1187&context=rhumj
-2. Application of System of Linear Equations to Traffic Flow for a Network of Four One-Way Streets in Kumasi, Ghana is a very similar study as we wish to conduct. This paper helped us in:
+##### 2. Application of System of Linear Equations to Traffic Flow for a Network of Four One-Way Streets in Kumasi, Ghana is a very similar study as we wish to conduct. This paper helped us in:
 •	Critical Analysis of the case study on the causes, and potential solutions of traffic congestion on the streets in Kumasi 
 •	Mathematical motivation to achieve desired, targeted results for our project.
 Link: http://www.m-hikari.com/ijcms/ijcms-2014/13-16-2014/aduIJCMS13-16-2014.pdf
-3. Some of the additional resources consulted are mentioned as follows. They enhanced our perspectives and understanding of the topic.
+##### 3. Some of the additional resources consulted are mentioned as follows. They enhanced our perspectives and understanding of the topic.
 Links:
 •	https://metrocouncil.org/Transportation/Planning-2/Reports/Highways-Roads/Mobility-Needs-Analysis/The-Negative-Effects-of-Traffic-Congestion.aspx
 •	https://applicationanthologys16.wordpress.com/2016/04/21/linear-algebra-and-traffic-flow/
-Link to the Uploaded YouTube Video
+##### Link to the Uploaded YouTube Video
 
